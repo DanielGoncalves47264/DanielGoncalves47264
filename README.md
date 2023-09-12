@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile!
 
 - 👋 Hi, I’m @DanielGoncalves47264, a 🇵🇹 guy who found Python an interesting way of learning how to code.
-- 👀 I’m interested in Financial Markets, Digital Transformation, Business Analytics, Automation, Data Science, Machine Learning, Big Data, UI and UX.
+- 👀 I’m interested in IB, M&A, Financial Markets but also into Digital Transformation, Business Analytics, Automation, Data Science, Machine Learning, Big Data, UI and UX.
 - 🌱 I’m currently studying Finance at Nova SBE.
 - 📫 Reach me out at:
   - [My LinkedIn](https://www.linkedin.com/in/danielgoncalves)
