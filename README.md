@@ -1,20 +1,20 @@
 # Welcome to my GitHub Profile!
 
 - 👋 Hi, I’m @DanielGoncalves47264, a 🇵🇹 guy who found Python an interesting way of learning how to code.
-- 👀 I’m interested in Digital Transformation, Business Analytics, Automation, Data Science, Machine Learning, Big Data, UI and UX.
-- 🌱 I’m currently studying Management at Nova SBE.
+- 👀 I’m interested in Financial Markets, Digital Transformation, Business Analytics, Automation, Data Science, Machine Learning, Big Data, UI and UX.
+- 🌱 I’m currently studying Finance at Nova SBE.
 - 📫 Reach me out at:
   - [My LinkedIn](https://www.linkedin.com/in/danielgoncalves)
   - [My e-mail](mailto:47264@novasbe.pt)
 
 ## Story Time
-Hi again, I'm Daniel. I just turned 20 and I'm about to finish my Bachelors Degree in Management at the sunny Nova SBE.
+Hi again, I'm Daniel. I'm 20 and I'm starting my Bachelors Degree in Finance at the sunny Nova SBE.
 At this point you may be asking how did I ended up here? _Fair Enough_.
 Well, from a young age I learned and liked to work with computers and technology in general.
 A few years back I decided that I wanted to go deeper and learn how to code, because it seemed something useful in the future and also it is _kinda cool_ 
 because people who don't code will likely think you are either a wizzard or a genius. Also, I liked the dress code of developers :). 
 
-As of today, the Management student here believes
+As of today, the Finance student here believes
 the younger me was right. The world is going digital. An insane ammount of data is generated every millisecond and decision-making has most likely changed with it. Coding knowledge enables me not only to
 be more productive, by automating tasks, but also to comprehend and develop new products, services and business models.
 
@@ -40,7 +40,7 @@ Daniel
 | HTML     |★★★☆☆|
 | CSS      |★★★☆☆|
 | NoSQL    |★★☆☆☆|
-| Flutter  | ★☆☆☆☆ |
+| Flutter  |★☆☆☆☆ |
 
 ## A Few Quotes
 - *Everyone should learn how to code, because it teaches you how to think.* **Steve Jobs**
