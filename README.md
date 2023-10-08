@@ -8,7 +8,7 @@
   - [My e-mail](mailto:47264@novasbe.pt)
 
 ## Story Time
-Hi again, I'm Daniel. I'm 20 and I'm starting my Bachelors Degree in Finance at the sunny Nova SBE.
+Hi again, I'm Daniel. I'm 21 and I'm starting my Masters Degree in Finance at the sunny Nova SBE.
 At this point you may be asking how did I ended up here? _Fair Enough_.
 Well, from a young age I learned and liked to work with computers and technology in general.
 A few years back I decided that I wanted to go deeper and learn how to code, because it seemed something useful in the future and also it is _kinda cool_ 
